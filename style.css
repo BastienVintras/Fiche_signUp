@@ -19,12 +19,18 @@ body{
 }
 .containerMain2{
     display: flex;
+    width:100%;
 }
   
-    
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    width:100%;
+}
 
 .container2{
     background-color: cadetblue;
+    width:50%;
 }
 .button{
     
@@ -52,4 +58,5 @@ body{
 .container3{
     background-color: rgb(14, 151, 172);
     color: aliceblue;
+    width: 50%;
 }
