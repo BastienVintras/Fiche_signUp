@@ -1,0 +1,64 @@
+body{
+    background-color: antiquewhite;
+}
+.mainContainer{
+     display: inline-flex;
+     flex-direction: column;
+     border-radius: 20px;
+}
+.containerHor{
+    display: flex;
+    flex-direction: row;
+    align-self:center ;
+    
+
+}
+.container1{
+    
+    background-color: aliceblue;
+}
+.title1{
+    color: rgb(25, 131, 131);
+}
+.guarantee{
+    color: rgb(216, 234, 22);
+}
+.container2{
+    background-color: rgb(25, 131, 131);
+    color: aliceblue;
+}
+.button{
+    
+    color: aliceblue;
+    font-size: 15px;
+    line-height: 15px;
+    padding: 11px;
+    border-radius: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    background-image: linear-gradient(to right,rgb(131, 230, 45)0%,rgb(195, 230, 18)50%,rgb(19, 183, 88)100%);
+    box-shadow: black 1px 1px 0px 0px;
+    /* border : 1px solid rgb(0, 0, 0); */
+    display: inline-block;
+}
+.button:hover{
+    background: #d4d707;
+}
+
+
+    
+
+
+
+    
+        
+      
+
+.container3{
+    background-color: rgb(14, 151, 172);
+    color: aliceblue;
+}
